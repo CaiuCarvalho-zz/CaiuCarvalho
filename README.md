@@ -96,5 +96,5 @@
     
     
     
-<p><img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/isso_é_tudo.gif"></p>
+<p><img align="center" src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/isso_é_tudo.gif"></p>
   
