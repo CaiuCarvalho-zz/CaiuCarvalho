@@ -1,6 +1,6 @@
 <!-- fundo gif -->
 <p align="center" width=200>
-<img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/fundo_pronto_gif.gif" />
+<img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/fundo_pronto_gif.gif" />
 </p align="center">
 
 ##
@@ -14,8 +14,8 @@
 
 <!-- gifs prgramando -->
 <p align="center">
-    <img src="https://github.com/CaiuCarvalho/README/blob/main/me.gif" width=400 height=340>
-    <img src="https://github.com/CaiuCarvalho/README/blob/main/new.gif" height=340>
+    <img src="https://github.com/CaiuCarvalho/README/blob/main/imagens/me.gif" width=400 height=340>
+    <img src="https://github.com/CaiuCarvalho/README/blob/main/imagens/new.gif" height=340>
 </p>
 
 <!-- contador de commits, views e repositorios-->
@@ -44,7 +44,7 @@
 
 
 <!-- linguagens -->
-<h2 align="center">Atualmente estudando.. <img src=""></h2>
+<h2 align="center">Atualmente estudando.. <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/cerebro_malhante_giff.gif" width="90"></h2>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -57,13 +57,14 @@
   ##  
   
 <!-- snake game eat commits -->  
+<h2 align="center">Meu grafico de contribuções.. <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_cobrinha.gif"></h2>
   ![Snake animation](https://github.com/CaiuCarvalho/CaiuCarvalho/blob/output/github-contribution-grid-snake.svg)
        
 
 
 <!-- redes sociais e contatos -->
 <div align="center">
-    <h2 align="center">Minha redes sociais e contato <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/gif_celular" width=50></h2>
+    <h2 align="center">Minha redes sociais e contato <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_celular" width=50></h2>
         <a href="https://www.instagram.com/qaio_lu" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
         </a>
