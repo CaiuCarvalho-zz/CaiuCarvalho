@@ -4,7 +4,7 @@
     - 🔭 Atualmente trabalhando com Administração <br/>
     - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 </h>
-<br/>
+<br><br/>
 
 <p align="center">
     <img src="https://github.com/CaiuCarvalho/README/blob/main/me.gif" width=400 height=340>
