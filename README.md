@@ -4,7 +4,7 @@
     - 🔭 Atualmente trabalhando com Administração <br/>
     - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 </h>
-<br/>
+<br><br/>
 
 <p align="center">
     <img src="https://github.com/CaiuCarvalho/README/blob/main/me.gif" width=400 height=340>
@@ -37,3 +37,12 @@
   ##
   
   ![Snake animation](https://github.com/CaiuCarvalho/CaiuCarvalho/blob/output/github-contribution-grid-snake.svg)
+    
+    
+ <p align="center">
+    <a href="https://www.instagram.com/qaio_lu/">   
+    
+ </p>   
+    
+    
+  
