@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" / width=55 height=50>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" / width=55 height=50>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" / width=55 height=50>
-</p>
+</p><br>
 
 
 
@@ -95,6 +95,6 @@
 </div>
     
     
-    
-<p><img align="center" src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/isso_é_tudo.gif"></p>
+<br><br>   
+<p align="center"><img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/isso_é_tudo.gif"></p>
   
