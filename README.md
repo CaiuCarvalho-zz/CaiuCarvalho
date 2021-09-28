@@ -8,7 +8,7 @@
 <h3 align="center"> 
     - 🔭 Atualmente trabalhando com Administração <br/>
     - 🌱 Cursando Análise e Desenvolvimento de Sistemas<br>
-    - :mortar_board:: Universidade Positivo - Câmpus Ecoville
+    - :mortar_board: Universidade Positivo - Câmpus Ecoville
 </h3>
 
 ##
