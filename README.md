@@ -1,6 +1,6 @@
 <!-- fundo gif -->
 <p align="center" width=200>
-<img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/fundo_pronto_gif.gif" />
+    <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/fundo_pronto_gif.gif" />
 </p align="center">
 
 ##
@@ -15,7 +15,7 @@
 
 <!-- linguagens -->
 <h3 align="center">Atualmente estudando..</h3>
-<img  align="right" src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/cerebro_malhante_giff.gif" width="90">
+    <img  align="right" src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/cerebro_malhante_giff.gif" width="90">
 <p align="center">    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/ width=55 height=50>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" / width=55 height=50>
@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" / width=55 height=50>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" / width=55 height=50>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" / width=55 height=50>
-</p><br>
+</p>
 
 
 
@@ -57,21 +57,21 @@
  </a>
 -->
 <div align="center">
-  <a href="https://github.com/CaiuCarvalho">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaiuCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuCarvalho&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/CaiuCarvalho">
+    <img src="https://github-readme-stats.vercel.app/api?username=CaiuCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuCarvalho&     layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-  <!-- trofeus -->  
-  ### :zap: GitHub Trofeus 🏆
-  
+<!-- trofeus -->  
+### :zap: GitHub Trofeus 🏆
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=CaiuCarvalho&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
   </a>
 </p> 
   
-  ##  
+##  
   
 <!-- snake game eat commits -->  
 <h2 align="center">Meu grafico de contribuções.. <img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/gif_cobrinha.gif" width="60"></h2>
@@ -95,6 +95,6 @@
 </div>
     
     
-<br><br>   
-<p align="center"><img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/isso_é_tudo.gif"></p>
+    
+<p><img align="center" src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/isso_é_tudo.gif"></p>
   
