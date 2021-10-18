@@ -93,8 +93,3 @@
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
         </a>
 </div>
-    
-    
-<br><br>    
-<p align="center"><img src="https://github.com/CaiuCarvalho/CaiuCarvalho/blob/main/imagens/isso_é_tudo.gif"></p>
-  
